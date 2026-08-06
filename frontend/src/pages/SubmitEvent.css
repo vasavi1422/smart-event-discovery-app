@@ -1,0 +1,38 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #1e293b;
+  border-radius: 10px;
+  color: white;
+}
+
+.container input,
+.container textarea,
+.container select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 6px;
+  border: none;
+  background: #334155;
+  color: white;
+}
+
+.container button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-otp {
+  background: orange;
+}
+
+.btn-submit {
+  background: blue;
+  color: white;
+}
